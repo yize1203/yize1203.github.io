@@ -1,16 +1,13 @@
 #### Submitted
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>Y. Zhou</strong>, H. Li, and S. Liu*. (2025). A Resolution-Agnostic Geometric Transformer for Chromosome Modeling Using Inertial Frame. <strong>Submitted to ICLR 2026</strong>. [[Paper]](https://openreview.net/pdf?id=OwLl8Xi6JG)
+
+- <strong>Y. Zhou</strong>, J. Zhang, M. Wang, and L. Yu*. (2025). BMDetect: A Multimodal Deep Learning Framework for Comprehensive Biomedical Misconduct Detection. <strong>arXiv preprint arXiv:2505.05763</strong>. [[Paper]](https://arxiv.org/abs/2505.05763)
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>Y. Zhou</strong>, J. Zhang, C. Zhu, and H. Wang* (2022). Modelling and Analysis of Rumour Propagation Based on Stochastic Optimal Control. <strong>Alexandria Engineering Journal</strong>. [[Paper]](https://doi.org/10.1016/j.aej.2022.06.057)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- J. Zhang, <strong>Y. Zhou</strong>, Z. Wang, and H. Wang* (2023). Analysis and Achievement for Fractional Optimal Control of Hepatitis B with Caputo Operator. <strong>Alexandria Engineering Journal</strong>. [[Paper]](https://doi.org/10.1016/j.aej.2023.03.015)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
-
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
-
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
-
+- Z. Zheng*, <strong>Y. Zhou</strong>, Y. Sun, Z. Wang, B. Liu, and K. Li (2021). Applications of Federated Learning in Smart Cities: Recent Advances, Taxonomy, and Open Challenges. <strong>Connection Science</strong>. [[Paper]](https://doi.org/10.1080/09540091.2021.1936455)

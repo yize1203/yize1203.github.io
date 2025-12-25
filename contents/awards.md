@@ -1,12 +1,9 @@
+- First-Class Academic Scholarship (Wuhan University), 2024 & 2025.
 
-- Outstanding Graduate Award (CUMT), 2025.
+- National Second Prize, “Huawei Cup” China Graduate Mathematical Modeling Competition, 2023 & 2024.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
+- National Scholarship (Ministry of Education, China), 2021.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
+- Outstanding Winner & SIAM Award, Mathematical Contest in Modeling (MCM/ICM), 2021.
 
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.
+- First Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM), 2020.
