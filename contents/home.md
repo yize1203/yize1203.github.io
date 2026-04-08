@@ -2,11 +2,10 @@
 
 [![yize1203](https://img.shields.io/badge/yize1203-github-blue?logo=github)](https://github.com/yize1203)
 
-I am a recent M.Sc. graduate in Applied Mathematics from Wuhan University (June 2025).  
-I’m honored to be working with [Prof. Shengchao Liu](https://chao1224.github.io/) at CUHK CSE since June 2025. I will continue my research there as a Research Assistant starting from Spring 2026.
+I am currently a Research Assistant at Wave Intelligence Lab, CUHK, working under the supervision of [Prof. Shengchao Liu](https://chao1224.github.io/).
 
 #### Contact
-Email: [yizz2000@whu.edu.cn](mailto:yizz2000@whu.edu.cn)
+Email: [duduzhou2000@gmail.com](mailto:duduzhou2000@gmail.com)
 
 #### Education
 - **M.Sc. in Applied Mathematics**, Wuhan University, 2022–2025  
