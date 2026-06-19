@@ -1,12 +1,12 @@
 main:
 
   - title: InertialGenome: A Resolution-Agnostic Geometric Transformer for Chromosome Modeling Using Inertial Frame
-    authors: <strong>Yize Zhou</strong>, Haorui Li, Shengchao Liu* (*Corresponding authors)
+    authors: <strong>Yize Zhou</strong>, Haorui Li, Shengchao Liu*
     conference_short: ICLR
     conference: International Conference on Learning Representations <strong>(ICLR)</strong>, 2026.
     pdf: https://openreview.net/forum?id=OwLl8Xi6JG
     code: https://github.com/yize1203/InertialGenome
-    image: ./assets/img/ICIR2026_InertialGenome.png
+    image: ./assets/img/ICLR2026_InertialGenome.png
     # bibtex:
     # notes:
   
