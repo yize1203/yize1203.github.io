@@ -3,20 +3,25 @@ layout: homepage
 ---
 
 ## About Me
+I am currently a Research Assistant at Wave Intelligence Lab, CUHK, working under the supervision of [Prof. Shengchao Liu](https://chao1224.github.io/). My long-term academic goal is to pursue a PhD degree and devote myself to independent scientific research focusing on AI for Science.
 
-I am a Ph.D. student at ...
+## Previously
+- Spring 2026 -- Present, Research Assistant
+  - Wave Intelligence Lab, Department of Computer Science and Engineering, The Chinese University of Hong Kong
+  - Advisor: [Prof. Shengchao Liu](https://chao1224.github.io/)
+- 2022 -- 2025, M.Sc. in Applied Mathematics, Wuhan University
+  - Advisor: [Prof. Can Zhang](https://jszy.whu.edu.cn/zhangcan/zh_CN/index.htm)
+  - Research Intern at [MetaNovas Biotech](https://metanovas.com/), Shanghai
+- 2018 -- 2022, B.Sc. in Information and Computing Science, Hainan University
 
 ## Research Interests
-
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **AI for Science**, especially AI-driven biological modeling (e.g., chromosome structure, pathway planning)
+- **Generative models** in scientific discovery (e.g., geometric deep learning, diffusion models)
+- **Large Language Model (LLM) Reasoning**, with a focus on latent-space reasoning mechanisms
 
 ## News
-
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
+- **[May 2026]** One paper accepted at The 2026 Workshop on Generative and Agentic AI for Biology (GenBio, ICML 2026).
+- **[Jan. 2026]** One paper accepted at International Conference on Learning Representations (ICLR 2026).
 
 {% include_relative _includes/publications.md %}
 
