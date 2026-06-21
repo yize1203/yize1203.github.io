@@ -3,10 +3,10 @@ layout: homepage
 ---
 
 ## About Me
-I am currently a Research Assistant at Wave Intelligence Lab, CUHK, working under the supervision of Prof. Shengchao Liu. My long-term academic goal is to pursue a PhD degree and devote myself to independent scientific research focusing on AI for Science.
+I worked as a Research Assistant at Wave Intelligence Lab, CUHK, under the supervision of Prof. Shengchao Liu. My research lies at the intersection of AI for Science and computational biology, with a focus on geometric deep learning, generative models, and LLM reasoning for biomolecular modeling. My long-term academic goal is to pursue a PhD degree and conduct independent scientific research in this field.
 
 ## Previously
-- Spring 2026 -- Present, Research Assistant
+- Summer 2025 -- Summer 2026, Research Assistant
   - [Wave Intelligence Lab](http://waveintell.ai/), Department of Computer Science and Engineering, The Chinese University of Hong Kong
   - Advisor: [Prof. Shengchao Liu](https://chao1224.github.io/)
 - 2022 -- 2025, M.Sc. in Applied Mathematics, Wuhan University
